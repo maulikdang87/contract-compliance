@@ -1,0 +1,692 @@
+[
+    {
+        "label": "runpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "runpy",
+        "description": "runpy",
+        "detail": "runpy",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "create_react_agent",
+        "importPath": "langchain.agents",
+        "description": "langchain.agents",
+        "isExtraImport": true,
+        "detail": "langchain.agents",
+        "documentation": {}
+    },
+    {
+        "label": "AgentExecutor",
+        "importPath": "langchain.agents",
+        "description": "langchain.agents",
+        "isExtraImport": true,
+        "detail": "langchain.agents",
+        "documentation": {}
+    },
+    {
+        "label": "Tool",
+        "importPath": "langchain.tools",
+        "description": "langchain.tools",
+        "isExtraImport": true,
+        "detail": "langchain.tools",
+        "documentation": {}
+    },
+    {
+        "label": "BaseTool",
+        "importPath": "langchain.tools",
+        "description": "langchain.tools",
+        "isExtraImport": true,
+        "detail": "langchain.tools",
+        "documentation": {}
+    },
+    {
+        "label": "hub",
+        "importPath": "langchain",
+        "description": "langchain",
+        "isExtraImport": true,
+        "detail": "langchain",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessage",
+        "importPath": "langchain.schema",
+        "description": "langchain.schema",
+        "isExtraImport": true,
+        "detail": "langchain.schema",
+        "documentation": {}
+    },
+    {
+        "label": "SystemMessage",
+        "importPath": "langchain.schema",
+        "description": "langchain.schema",
+        "isExtraImport": true,
+        "detail": "langchain.schema",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Type",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "PyPDF2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "PyPDF2",
+        "description": "PyPDF2",
+        "detail": "PyPDF2",
+        "documentation": {}
+    },
+    {
+        "label": "docx",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "docx",
+        "description": "docx",
+        "detail": "docx",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "chromadb",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "chromadb",
+        "description": "chromadb",
+        "detail": "chromadb",
+        "documentation": {}
+    },
+    {
+        "label": "SentenceTransformer",
+        "importPath": "sentence_transformers",
+        "description": "sentence_transformers",
+        "isExtraImport": true,
+        "detail": "sentence_transformers",
+        "documentation": {}
+    },
+    {
+        "label": "streamlit",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "streamlit",
+        "description": "streamlit",
+        "detail": "streamlit",
+        "documentation": {}
+    },
+    {
+        "label": "DocumentProcessor",
+        "importPath": "modules.document_processor",
+        "description": "modules.document_processor",
+        "isExtraImport": true,
+        "detail": "modules.document_processor",
+        "documentation": {}
+    },
+    {
+        "label": "BaseContractAgent",
+        "importPath": "modules.agents.base_agent",
+        "description": "modules.agents.base_agent",
+        "isExtraImport": true,
+        "detail": "modules.agents.base_agent",
+        "documentation": {}
+    },
+    {
+        "label": "VectorStore",
+        "importPath": "modules.vector_store",
+        "description": "modules.vector_store",
+        "isExtraImport": true,
+        "detail": "modules.vector_store",
+        "documentation": {}
+    },
+    {
+        "label": "ComplianceEngine",
+        "importPath": "modules.compliance_engine",
+        "description": "modules.compliance_engine",
+        "isExtraImport": true,
+        "detail": "modules.compliance_engine",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "isExtraImport": true,
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"contract-compliance\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.13/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"contract-compliance\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.13/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"contract-compliance\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.13/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"contract-compliance\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.13/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"contract-compliance\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.13/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"../lib/python3.13/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "peekOfCode": "class Settings:\n    # API Configuration\n    GOOGLE_API_KEY = os.getenv(\"GOOGLE_API_KEY\")\n    # Document Processing\n    MAX_CHUNK_SIZE = 1000\n    CHUNK_OVERLAP = 200\n    SUPPORTED_FORMATS = ['.pdf', '.docx', '.txt']\n    # Paths\n    DATA_DIR = \"data\"\n    CONTRACTS_DIR = os.path.join(DATA_DIR, \"contracts\")",
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "peekOfCode": "settings = Settings()",
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": "modules..venv.bin.activate_this",
+        "description": "modules..venv.bin.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"module\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.13/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": "modules..venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "modules..venv.bin.activate_this",
+        "description": "modules..venv.bin.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"module\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.13/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)",
+        "detail": "modules..venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": "modules..venv.bin.activate_this",
+        "description": "modules..venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"module\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.13/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": "modules..venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": "modules..venv.bin.activate_this",
+        "description": "modules..venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"module\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.13/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "modules..venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": "modules..venv.bin.activate_this",
+        "description": "modules..venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"module\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.13/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "modules..venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": "modules..venv.bin.activate_this",
+        "description": "modules..venv.bin.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"../lib/python3.13/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "modules..venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": "modules..venv.bin.activate_this",
+        "description": "modules..venv.bin.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "modules..venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": "modules..venv.bin.activate_this",
+        "description": "modules..venv.bin.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "modules..venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": "modules..venv.bin.activate_this",
+        "description": "modules..venv.bin.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": "modules..venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "BaseContractAgent",
+        "kind": 6,
+        "importPath": "modules.agents.base_agent",
+        "description": "modules.agents.base_agent",
+        "peekOfCode": "class BaseContractAgent:\n    \"\"\"\n    Enhanced contract agent with tool integration and structured analysis.\n    This version combines your structured prompting approach with the\n    tool integration capabilities we built in Week 3.\n    \"\"\"\n    def __init__(self, model_name: str = \"gemini-2.0-flash-exp\", vector_store=None, compliance_engine=None):\n        self.llm = ChatGoogleGenerativeAI(\n            model=model_name,\n            google_api_key=os.getenv(\"GOOGLE_API_KEY\"),",
+        "detail": "modules.agents.base_agent",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "modules.agents.hello",
+        "description": "modules.agents.hello",
+        "peekOfCode": "def main():\n    print(\"Hello from agents!\")\nif __name__ == \"__main__\":\n    main()",
+        "detail": "modules.agents.hello",
+        "documentation": {}
+    },
+    {
+        "label": "ContractSearchInput",
+        "kind": 6,
+        "importPath": "modules.tools.contract_tools",
+        "description": "modules.tools.contract_tools",
+        "peekOfCode": "class ContractSearchInput(BaseModel):\n    \"\"\"Input schema for contract search tool\"\"\"\n    query: str = Field(description=\"Search query to find relevant contract sections\")\n    max_results: int = Field(default=3, description=\"Maximum number of results to return\")\nclass ContractSearchTool(BaseTool):\n    \"\"\"Tool for semantic search within contract documents\"\"\"\n    name: str = \"contract_search\"\n    description: str = \"Search for specific clauses or sections within the uploaded contract\"\n    args_schema: Type[BaseModel] = ContractSearchInput\n    vector_store: Any  # ✅ Declare vector_store as a field with type annotation",
+        "detail": "modules.tools.contract_tools",
+        "documentation": {}
+    },
+    {
+        "label": "ContractSearchTool",
+        "kind": 6,
+        "importPath": "modules.tools.contract_tools",
+        "description": "modules.tools.contract_tools",
+        "peekOfCode": "class ContractSearchTool(BaseTool):\n    \"\"\"Tool for semantic search within contract documents\"\"\"\n    name: str = \"contract_search\"\n    description: str = \"Search for specific clauses or sections within the uploaded contract\"\n    args_schema: Type[BaseModel] = ContractSearchInput\n    vector_store: Any  # ✅ Declare vector_store as a field with type annotation\n    def _run(self, query: str, max_results: int = 3) -> str:\n        \"\"\"Execute the search and return formatted results\"\"\"\n        try:\n            results = self.vector_store.search_similar(query, k=max_results)",
+        "detail": "modules.tools.contract_tools",
+        "documentation": {}
+    },
+    {
+        "label": "ComplianceCheckInput",
+        "kind": 6,
+        "importPath": "modules.tools.contract_tools",
+        "description": "modules.tools.contract_tools",
+        "peekOfCode": "class ComplianceCheckInput(BaseModel):\n    \"\"\"Input schema for compliance checking tool\"\"\"\n    contract_text: str = Field(description=\"Contract text to check for compliance\")\n    rule_category: str = Field(default=\"employment_contracts\", description=\"Category of rules to apply\")\nclass ComplianceCheckTool(BaseTool):\n    \"\"\"Tool for systematic compliance checking\"\"\"\n    name: str = \"compliance_check\"\n    description: str = \"Check contract text against compliance rules and regulations\"\n    args_schema: Type[BaseModel] = ComplianceCheckInput\n    compliance_engine: Any  # ✅ Declare compliance_engine as a field with type annotation",
+        "detail": "modules.tools.contract_tools",
+        "documentation": {}
+    },
+    {
+        "label": "ComplianceCheckTool",
+        "kind": 6,
+        "importPath": "modules.tools.contract_tools",
+        "description": "modules.tools.contract_tools",
+        "peekOfCode": "class ComplianceCheckTool(BaseTool):\n    \"\"\"Tool for systematic compliance checking\"\"\"\n    name: str = \"compliance_check\"\n    description: str = \"Check contract text against compliance rules and regulations\"\n    args_schema: Type[BaseModel] = ComplianceCheckInput\n    compliance_engine: Any  # ✅ Declare compliance_engine as a field with type annotation\n    def _run(self, contract_text: str, rule_category: str = \"employment_contracts\") -> str:\n        \"\"\"Execute compliance check and return formatted results\"\"\"\n        try:\n            issues = self.compliance_engine.check_compliance(contract_text, rule_category)",
+        "detail": "modules.tools.contract_tools",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "modules.tools.hello",
+        "description": "modules.tools.hello",
+        "peekOfCode": "def main():\n    print(\"Hello from tools!\")\nif __name__ == \"__main__\":\n    main()",
+        "detail": "modules.tools.hello",
+        "documentation": {}
+    },
+    {
+        "label": "ComplianceIssue",
+        "kind": 6,
+        "importPath": "modules.compliance_engine",
+        "description": "modules.compliance_engine",
+        "peekOfCode": "class ComplianceIssue:\n    \"\"\"Represents a compliance violation found in a contract\"\"\"\n    rule_id: str\n    rule_name: str\n    severity: str\n    violation_message: str\n    found_keywords: List[str]\n    missing_elements: List[str]\n    confidence_score: float\nclass ComplianceEngine:",
+        "detail": "modules.compliance_engine",
+        "documentation": {}
+    },
+    {
+        "label": "ComplianceEngine",
+        "kind": 6,
+        "importPath": "modules.compliance_engine",
+        "description": "modules.compliance_engine",
+        "peekOfCode": "class ComplianceEngine:\n    def __init__(self, rules_directory: str = \"data/rules\"):\n        \"\"\"\n        Initialize the compliance engine with rule definitions.\n        Think of this as loading your legal playbook - all the rules\n        your AI needs to know to check contracts properly.\n        \"\"\"\n        self.rules_directory = Path(rules_directory)\n        self.loaded_rules = {}\n        self.load_all_rules()",
+        "detail": "modules.compliance_engine",
+        "documentation": {}
+    },
+    {
+        "label": "DocumentProcessor",
+        "kind": 6,
+        "importPath": "modules.document_processor",
+        "description": "modules.document_processor",
+        "peekOfCode": "class DocumentProcessor:\n    def __init__(self):\n        self.supported_formats = ['.pdf', '.docx', '.txt']\n    def extract_text(self, file_path: str) -> str:\n        \"\"\"Extract text from various document formats\"\"\"\n        file_path = Path(file_path)\n        if file_path.suffix.lower() == '.pdf':\n            return self._extract_from_pdf(file_path)\n        elif file_path.suffix.lower() == '.docx':\n            return self._extract_from_docx(file_path)",
+        "detail": "modules.document_processor",
+        "documentation": {}
+    },
+    {
+        "label": "VectorStore",
+        "kind": 6,
+        "importPath": "modules.vector_store",
+        "description": "modules.vector_store",
+        "peekOfCode": "class VectorStore:\n    def __init__(self, persist_directory=\"data/embeddings\", collection_name=\"contracts\"):\n        self.client = chromadb.PersistentClient(path=persist_directory)\n        self.collection = self.client.get_or_create_collection(collection_name)\n        self.embedder = SentenceTransformer(\"all-MiniLM-L6-v2\")\n    def add_documents(self, chunks: List[str], metadatas: Optional[List[Dict]] = None):\n        embeddings = self.embedder.encode(chunks)\n        ids = [f\"chunk_{i}\" for i in range(len(chunks))]\n        # FIXED: Don't pass empty metadata dictionaries\n        self.collection.add(",
+        "detail": "modules.vector_store",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def main():\n    st.title(\"🔍 Enhanced Contract Compliance Checker\")\n    st.markdown(\"Upload a contract document for comprehensive compliance analysis\")\n    # Initialize components\n    doc_processor = DocumentProcessor()\n    vector_store = VectorStore()\n    compliance_engine = ComplianceEngine()\n    # File upload\n    uploaded_file = st.file_uploader(\n        \"Choose a contract file\",",
+        "detail": "main",
+        "documentation": {}
+    }
+]

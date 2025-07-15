@@ -1,0 +1,18 @@
+SERVICE AGREEMENT
+
+This Service Agreement is entered into on January 15, 2024, between ABC Corporation, a Delaware corporation ("Client"), and XYZ Services LLC, a California limited liability company ("Provider").
+
+1. SCOPE OF WORK
+Provider shall provide consulting services as described in Exhibit A.
+
+2. PAYMENT TERMS
+Client shall pay Provider $5,000 monthly, due on the first of each month.
+
+3. TERM
+This agreement shall commence on February 1, 2024, and continue for twelve (12) months.
+
+4. TERMINATION
+Either party may terminate this agreement with thirty (30) days written notice.
+
+5. CONFIDENTIALITY
+Both parties agree to maintain confidentiality of proprietary information.

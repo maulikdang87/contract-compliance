@@ -1,0 +1,23 @@
+[project]
+name = "contract-compliance"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "chromadb>=1.0.15",
+    "fastapi>=0.116.0",
+    "langchain>=0.3.26",
+    "langchain-google-genai>=2.1.7",
+    "langchain-openai>=0.3.27",
+    "pypdf2>=3.0.1",
+    "python-docx>=1.2.0",
+    "python-dotenv>=1.1.1",
+    "sentence-transformers>=5.0.0",
+    "streamlit>=1.46.1",
+    "unstructured>=0.18.3",
+    "uvicorn>=0.35.0",
+]
+
+[tool.uv.workspace]
+members = ["module"]

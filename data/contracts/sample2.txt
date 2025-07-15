@@ -1,0 +1,22 @@
+EMPLOYMENT AGREEMENT
+
+This Employment Agreement is entered into on January 15, 2024, between TechCorp Inc., 
+a Delaware corporation ("Company"), and John Smith ("Employee").
+
+1. POSITION AND DUTIES
+Employee shall serve as Software Developer and perform duties as assigned by the Company.
+
+2. COMPENSATION
+Company shall pay Employee a salary of $75,000 per year, payable bi-weekly.
+
+3. BENEFITS
+Employee shall be entitled to health insurance, 15 days paid vacation, and 10 sick days annually.
+
+4. TERMINATION
+Either party may terminate this agreement with 30 days written notice period.
+
+5. CONFIDENTIALITY
+Employee agrees to maintain confidentiality of all proprietary company information.
+
+6. GOVERNING LAW
+This agreement shall be governed by the laws of Delaware.

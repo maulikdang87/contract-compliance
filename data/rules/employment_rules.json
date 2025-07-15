@@ -1,0 +1,32 @@
+{
+  "rule_category": "employment_contracts",
+  "rules": [
+    {
+      "rule_id": "EMP_001",
+      "rule_name": "Termination Clause Required",
+      "description": "Employment contracts must specify termination conditions",
+      "severity": "high",
+      "keywords": ["termination", "terminate", "end employment", "dismissal"],
+      "required_elements": ["notice period", "termination conditions"],
+      "violation_message": "Missing or incomplete termination clause"
+    },
+    {
+      "rule_id": "EMP_002", 
+      "rule_name": "Compensation Details",
+      "description": "Contract must clearly specify salary and payment terms",
+      "severity": "high",
+      "keywords": ["salary", "compensation", "payment", "wage"],
+      "required_elements": ["amount", "payment frequency"],
+      "violation_message": "Compensation terms are unclear or missing"
+    },
+    {
+      "rule_id": "EMP_003",
+      "rule_name": "Confidentiality Clause",
+      "description": "Employment contracts should include confidentiality provisions",
+      "severity": "medium",
+      "keywords": ["confidential", "proprietary", "non-disclosure", "trade secret"],
+      "required_elements": ["scope of confidentiality"],
+      "violation_message": "Confidentiality clause missing or inadequate"
+    }
+  ]
+}
