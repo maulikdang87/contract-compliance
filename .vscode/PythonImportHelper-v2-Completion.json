@@ -76,11 +76,99 @@
         "documentation": {}
     },
     {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
         "label": "ChatGoogleGenerativeAI",
         "importPath": "langchain_google_genai",
         "description": "langchain_google_genai",
         "isExtraImport": true,
         "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "GoogleGenerativeAIEmbeddings",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "GoogleGenerativeAIEmbeddings",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "GoogleGenerativeAIEmbeddings",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "GoogleGenerativeAIEmbeddings",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "create_react_agent",
+        "importPath": "langchain.agents",
+        "description": "langchain.agents",
+        "isExtraImport": true,
+        "detail": "langchain.agents",
+        "documentation": {}
+    },
+    {
+        "label": "AgentExecutor",
+        "importPath": "langchain.agents",
+        "description": "langchain.agents",
+        "isExtraImport": true,
+        "detail": "langchain.agents",
         "documentation": {}
     },
     {
@@ -116,11 +204,59 @@
         "documentation": {}
     },
     {
+        "label": "Tool",
+        "importPath": "langchain.tools",
+        "description": "langchain.tools",
+        "isExtraImport": true,
+        "detail": "langchain.tools",
+        "documentation": {}
+    },
+    {
+        "label": "BaseTool",
+        "importPath": "langchain.tools",
+        "description": "langchain.tools",
+        "isExtraImport": true,
+        "detail": "langchain.tools",
+        "documentation": {}
+    },
+    {
+        "label": "BaseTool",
+        "importPath": "langchain.tools",
+        "description": "langchain.tools",
+        "isExtraImport": true,
+        "detail": "langchain.tools",
+        "documentation": {}
+    },
+    {
         "label": "hub",
         "importPath": "langchain",
         "description": "langchain",
         "isExtraImport": true,
         "detail": "langchain",
+        "documentation": {}
+    },
+    {
+        "label": "hub",
+        "importPath": "langchain",
+        "description": "langchain",
+        "isExtraImport": true,
+        "detail": "langchain",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessage",
+        "importPath": "langchain.schema",
+        "description": "langchain.schema",
+        "isExtraImport": true,
+        "detail": "langchain.schema",
+        "documentation": {}
+    },
+    {
+        "label": "SystemMessage",
+        "importPath": "langchain.schema",
+        "description": "langchain.schema",
+        "isExtraImport": true,
+        "detail": "langchain.schema",
         "documentation": {}
     },
     {
@@ -181,6 +317,102 @@
     },
     {
         "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Type",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Type",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
         "importPath": "typing",
         "description": "typing",
         "isExtraImport": true,
@@ -276,12 +508,160 @@
         "documentation": {}
     },
     {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "genai",
+        "importPath": "google",
+        "description": "google",
+        "isExtraImport": true,
+        "detail": "google",
+        "documentation": {}
+    },
+    {
+        "label": "generativeai",
+        "importPath": "google",
+        "description": "google",
+        "isExtraImport": true,
+        "detail": "google",
+        "documentation": {}
+    },
+    {
+        "label": "genai",
+        "importPath": "google",
+        "description": "google",
+        "isExtraImport": true,
+        "detail": "google",
+        "documentation": {}
+    },
+    {
+        "label": "EmbedContentConfig",
+        "importPath": "google.generativeai.types",
+        "description": "google.generativeai.types",
+        "isExtraImport": true,
+        "detail": "google.generativeai.types",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "GeminiSearchAgent",
+        "importPath": "modules.tools.gemini_tools",
+        "description": "modules.tools.gemini_tools",
+        "isExtraImport": true,
+        "detail": "modules.tools.gemini_tools",
+        "documentation": {}
+    },
+    {
+        "label": "GeminiComplianceAgent",
+        "importPath": "modules.tools.gemini_tools",
+        "description": "modules.tools.gemini_tools",
+        "isExtraImport": true,
+        "detail": "modules.tools.gemini_tools",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
         "label": "json",
         "kind": 6,
         "isExtraImport": true,
         "importPath": "json",
         "description": "json",
         "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "warnings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "warnings",
+        "description": "warnings",
+        "detail": "warnings",
+        "documentation": {}
+    },
+    {
+        "label": "LangSmithMissingAPIKeyWarning",
+        "importPath": "langsmith.utils",
+        "description": "langsmith.utils",
+        "isExtraImport": true,
+        "detail": "langsmith.utils",
+        "documentation": {}
+    },
+    {
+        "label": "GeminiEmbeddingSearchAgent",
+        "importPath": "modules.agents.embeddings_agent",
+        "description": "modules.agents.embeddings_agent",
+        "isExtraImport": true,
+        "detail": "modules.agents.embeddings_agent",
+        "documentation": {}
+    },
+    {
+        "label": "GeminiComplianceAgent",
+        "importPath": "modules.agents.compliance_agent",
+        "description": "modules.agents.compliance_agent",
+        "isExtraImport": true,
+        "detail": "modules.agents.compliance_agent",
+        "documentation": {}
+    },
+    {
+        "label": "types",
+        "importPath": "google.genai",
+        "description": "google.genai",
+        "isExtraImport": true,
+        "detail": "google.genai",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
         "documentation": {}
     },
     {
@@ -327,15 +707,6 @@
         "documentation": {}
     },
     {
-        "label": "re",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "re",
-        "description": "re",
-        "detail": "re",
-        "documentation": {}
-    },
-    {
         "label": "chromadb",
         "kind": 6,
         "isExtraImport": true,
@@ -370,11 +741,11 @@
         "documentation": {}
     },
     {
-        "label": "BaseContractAgent",
-        "importPath": "modules.agents.base_agent",
-        "description": "modules.agents.base_agent",
+        "label": "EnhancedBaseAgent",
+        "importPath": "modules.agents.enhanced_base_agent",
+        "description": "modules.agents.enhanced_base_agent",
         "isExtraImport": true,
-        "detail": "modules.agents.base_agent",
+        "detail": "modules.agents.enhanced_base_agent",
         "documentation": {}
     },
     {
@@ -586,17 +957,53 @@
         "kind": 6,
         "importPath": "modules.agents.base_agent",
         "description": "modules.agents.base_agent",
-        "peekOfCode": "class BaseContractAgent:\n    \"\"\"\n    Enhanced contract agent with tool integration and structured analysis.\n    This version combines your structured prompting approach with the\n    tool integration capabilities we built in Week 3.\n    \"\"\"\n    def __init__(self, model_name: str = \"gemini-2.0-flash-exp\", vector_store=None, compliance_engine=None):\n        self.llm = ChatGoogleGenerativeAI(\n            model=model_name,\n            google_api_key=os.getenv(\"GOOGLE_API_KEY\"),",
+        "peekOfCode": "class BaseContractAgent:\n    \"\"\"\n    Enhanced contract agent with tool integration and structured analysis.\n    This version combines your structured prompting approach with the\n    tool integration capabilities we built in Week 3.\n    \"\"\"\n    def __init__(self, model_name: str = \"gemini-1.5-flash\", vector_store=None, compliance_engine=None):\n        self.llm = ChatGoogleGenerativeAI(\n            model=model_name,\n            google_api_key=os.getenv(\"GOOGLE_API_KEY\"),",
         "detail": "modules.agents.base_agent",
         "documentation": {}
     },
     {
-        "label": "main",
-        "kind": 2,
-        "importPath": "modules.agents.hello",
-        "description": "modules.agents.hello",
-        "peekOfCode": "def main():\n    print(\"Hello from agents!\")\nif __name__ == \"__main__\":\n    main()",
-        "detail": "modules.agents.hello",
+        "label": "GeminiComplianceInput",
+        "kind": 6,
+        "importPath": "modules.agents.compliance_agent",
+        "description": "modules.agents.compliance_agent",
+        "peekOfCode": "class GeminiComplianceInput(BaseModel):\n    \"\"\"Input schema for Gemini-powered compliance agent\"\"\"\n    contract_text: str = Field(description=\"Contract text to check for compliance\")\n    rule_category: str = Field(default=\"employment_contracts\", description=\"Category of rules to apply\")\nclass GeminiComplianceAgent(BaseTool):\n    \"\"\"Intelligent compliance agent powered by Gemini reasoning\"\"\"\n    name: str = \"gemini_compliance_agent\"\n    description: str = \"Advanced compliance analysis agent using Gemini reasoning\"\n    args_schema: Type[BaseModel] = GeminiComplianceInput\n    # Pydantic fields for tool dependencies",
+        "detail": "modules.agents.compliance_agent",
+        "documentation": {}
+    },
+    {
+        "label": "GeminiComplianceAgent",
+        "kind": 6,
+        "importPath": "modules.agents.compliance_agent",
+        "description": "modules.agents.compliance_agent",
+        "peekOfCode": "class GeminiComplianceAgent(BaseTool):\n    \"\"\"Intelligent compliance agent powered by Gemini reasoning\"\"\"\n    name: str = \"gemini_compliance_agent\"\n    description: str = \"Advanced compliance analysis agent using Gemini reasoning\"\n    args_schema: Type[BaseModel] = GeminiComplianceInput\n    # Pydantic fields for tool dependencies\n    llm: Any = Field(description=\"Gemini LLM for compliance reasoning\")\n    embeddings: Any = Field(description=\"Gemini embeddings for rule matching\")\n    compliance_engine: Any = Field(description=\"Enhanced compliance engine\", default=None)\n    def analyze_compliance_intelligently(self, contract_text: str, rule_category: str = \"employment_contracts\") -> Dict:",
+        "detail": "modules.agents.compliance_agent",
+        "documentation": {}
+    },
+    {
+        "label": "GeminiEmbeddingSearchAgent",
+        "kind": 6,
+        "importPath": "modules.agents.embeddings_agent",
+        "description": "modules.agents.embeddings_agent",
+        "peekOfCode": "class GeminiEmbeddingSearchAgent:\n    def __init__(self, api_key: str):\n        genai.configure(api_key=api_key)\n        self.embeddings = GoogleGenerativeAIEmbeddings(\n            model=\"models/embedding-001\",\n            google_api_key=api_key\n        )\n    def create_enhanced_embeddings(self, texts: List[str], task_type: str = \"SEMANTIC_SIMILARITY\"):\n        \"\"\"Create task-specific embeddings using Gemini\"\"\"\n        result = genai.embed_content(",
+        "detail": "modules.agents.embeddings_agent",
+        "documentation": {}
+    },
+    {
+        "label": "EnhancedBaseAgent",
+        "kind": 6,
+        "importPath": "modules.agents.enhanced_base_agent",
+        "description": "modules.agents.enhanced_base_agent",
+        "peekOfCode": "class EnhancedBaseAgent:\n    \"\"\"Enhanced multi-agent system using Gemini embeddings and advanced reasoning\"\"\"\n    def __init__(self, model_name: str = \"gemini-1.5-flash\", vector_store=None, \n                 compliance_engine=None, max_iterations: int = 5):\n        self.api_key = os.getenv(\"GOOGLE_API_KEY\")\n        self.model_name = model_name\n        self.max_iterations = max_iterations\n        # Initialize main LLM\n        self.llm = ChatGoogleGenerativeAI(\n            model=model_name,",
+        "detail": "modules.agents.enhanced_base_agent",
+        "documentation": {}
+    },
+    {
+        "label": "GeminiAgentOrchestrator",
+        "kind": 6,
+        "importPath": "modules.agents.gemini_orchestrator_agent",
+        "description": "modules.agents.gemini_orchestrator_agent",
+        "peekOfCode": "class GeminiAgentOrchestrator:\n    def __init__(self, api_key: str):\n        self.search_agent = GeminiEmbeddingSearchAgent(api_key)\n        self.compliance_agent = GeminiComplianceAgent(api_key)\n        self.coordination_llm = ChatGoogleGenerativeAI(\n            model=\"gemini-1.5-flash\",\n            google_api_key=api_key\n        )\n    def orchestrate_contract_analysis(self, contract_text: str, user_query: str):\n        \"\"\"Coordinate multiple Gemini agents for comprehensive analysis\"\"\"",
+        "detail": "modules.agents.gemini_orchestrator_agent",
         "documentation": {}
     },
     {
@@ -633,6 +1040,42 @@
         "description": "modules.tools.contract_tools",
         "peekOfCode": "class ComplianceCheckTool(BaseTool):\n    \"\"\"Tool for systematic compliance checking\"\"\"\n    name: str = \"compliance_check\"\n    description: str = \"Check contract text against compliance rules and regulations\"\n    args_schema: Type[BaseModel] = ComplianceCheckInput\n    compliance_engine: Any  # ✅ Declare compliance_engine as a field with type annotation\n    def _run(self, contract_text: str, rule_category: str = \"employment_contracts\") -> str:\n        \"\"\"Execute compliance check and return formatted results\"\"\"\n        try:\n            issues = self.compliance_engine.check_compliance(contract_text, rule_category)",
         "detail": "modules.tools.contract_tools",
+        "documentation": {}
+    },
+    {
+        "label": "GeminiSearchInput",
+        "kind": 6,
+        "importPath": "modules.tools.gemini_tools",
+        "description": "modules.tools.gemini_tools",
+        "peekOfCode": "class GeminiSearchInput(BaseModel):\n    \"\"\"Input schema for Gemini-powered search agent\"\"\"\n    query: str = Field(description=\"Search query for legal document analysis\")\n    context_type: str = Field(default=\"legal\", description=\"Domain context for search\")\n    max_results: int = Field(default=5, description=\"Maximum results to return\")\nclass GeminiComplianceInput(BaseModel):\n    \"\"\"Input schema for Gemini-powered compliance agent\"\"\"\n    contract_text: str = Field(description=\"Contract text to check for compliance\")\n    rule_category: str = Field(default=\"employment_contracts\", description=\"Category of rules to apply\")\nclass GeminiSearchAgent(BaseTool):",
+        "detail": "modules.tools.gemini_tools",
+        "documentation": {}
+    },
+    {
+        "label": "GeminiComplianceInput",
+        "kind": 6,
+        "importPath": "modules.tools.gemini_tools",
+        "description": "modules.tools.gemini_tools",
+        "peekOfCode": "class GeminiComplianceInput(BaseModel):\n    \"\"\"Input schema for Gemini-powered compliance agent\"\"\"\n    contract_text: str = Field(description=\"Contract text to check for compliance\")\n    rule_category: str = Field(default=\"employment_contracts\", description=\"Category of rules to apply\")\nclass GeminiSearchAgent(BaseTool):\n    \"\"\"Advanced semantic search agent using Gemini embeddings\"\"\"\n    name: str = \"gemini_search_agent\"\n    description: str = \"Advanced semantic search agent using Gemini embeddings for legal document analysis\"\n    args_schema: Type[BaseModel] = GeminiSearchInput\n    # Agent components as Pydantic fields",
+        "detail": "modules.tools.gemini_tools",
+        "documentation": {}
+    },
+    {
+        "label": "GeminiSearchAgent",
+        "kind": 6,
+        "importPath": "modules.tools.gemini_tools",
+        "description": "modules.tools.gemini_tools",
+        "peekOfCode": "class GeminiSearchAgent(BaseTool):\n    \"\"\"Advanced semantic search agent using Gemini embeddings\"\"\"\n    name: str = \"gemini_search_agent\"\n    description: str = \"Advanced semantic search agent using Gemini embeddings for legal document analysis\"\n    args_schema: Type[BaseModel] = GeminiSearchInput\n    # Agent components as Pydantic fields\n    llm: Any = Field(description=\"Gemini LLM for reasoning\")\n    embeddings: Any = Field(description=\"Gemini embeddings model\")\n    vector_store: Any = Field(description=\"Enhanced vector store\")\n    genai_client: Any = Field(description=\"Gemini client\", default=None)",
+        "detail": "modules.tools.gemini_tools",
+        "documentation": {}
+    },
+    {
+        "label": "GeminiComplianceAgent",
+        "kind": 6,
+        "importPath": "modules.tools.gemini_tools",
+        "description": "modules.tools.gemini_tools",
+        "peekOfCode": "class GeminiComplianceAgent(BaseTool):\n    \"\"\"Advanced compliance analysis agent using Gemini reasoning with vulnerability detection\"\"\"\n    name: str = \"gemini_compliance_agent\"\n    description: str = \"Advanced compliance analysis agent using Gemini reasoning for comprehensive legal document review\"\n    args_schema: Type[BaseModel] = GeminiComplianceInput\n    llm: Any = Field(description=\"Gemini LLM for compliance reasoning\")\n    embeddings: Any = Field(description=\"Gemini embeddings for rule matching\")\n    compliance_engine: Any = Field(description=\"Enhanced compliance engine\", default=None)\n    def analyze_compliance_intelligently(self, contract_text: str, rule_category: str = \"employment_contracts\") -> Dict:\n        \"\"\"",
+        "detail": "modules.tools.gemini_tools",
         "documentation": {}
     },
     {
@@ -681,11 +1124,20 @@
         "documentation": {}
     },
     {
+        "label": "EnhancedVectorStore",
+        "kind": 6,
+        "importPath": "modules.vector_store",
+        "description": "modules.vector_store",
+        "peekOfCode": "class EnhancedVectorStore(VectorStore):\n    \"\"\"Enhanced vector store with improved semantic search capabilities\"\"\"\n    def __init__(self, persist_directory=\"data/embeddings\", collection_name=\"contracts\"):\n        super().__init__(persist_directory, collection_name)\n        # Legal term mappings for query enhancement\n        self.legal_synonyms = {\n            \"termination\": [\"terminate\", \"end\", \"dissolution\", \"expiry\", \"cancellation\"],\n            \"compensation\": [\"salary\", \"payment\", \"remuneration\", \"wages\"],\n            \"confidentiality\": [\"non-disclosure\", \"proprietary\", \"confidential\", \"trade secret\"],\n            \"benefits\": [\"perks\", \"entitlements\", \"allowances\", \"insurance\"]",
+        "detail": "modules.vector_store",
+        "documentation": {}
+    },
+    {
         "label": "main",
         "kind": 2,
         "importPath": "main",
         "description": "main",
-        "peekOfCode": "def main():\n    st.title(\"🔍 Enhanced Contract Compliance Checker\")\n    st.markdown(\"Upload a contract document for comprehensive compliance analysis\")\n    # Initialize components\n    doc_processor = DocumentProcessor()\n    vector_store = VectorStore()\n    compliance_engine = ComplianceEngine()\n    # File upload\n    uploaded_file = st.file_uploader(\n        \"Choose a contract file\",",
+        "peekOfCode": "def main():\n    st.set_page_config(\n        page_title=\"Enhanced Contract Compliance Checker\",\n        page_icon=\"🔍\",\n        layout=\"wide\"\n    )\n    # Header with improved visual hierarchy\n    st.markdown(\"\"\"\n    <div style=\"text-align: center; padding: 1rem 0;\">\n        <h1 style=\"color: #1f77b4; margin-bottom: 0;\">🔍 Enhanced Contract Compliance Checker</h1>",
         "detail": "main",
         "documentation": {}
     }

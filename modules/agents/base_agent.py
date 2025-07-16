@@ -17,7 +17,7 @@ class BaseContractAgent:
     tool integration capabilities we built in Week 3.
     """
     
-    def __init__(self, model_name: str = "gemini-2.0-flash-exp", vector_store=None, compliance_engine=None):
+    def __init__(self, model_name: str = "gemini-1.5-flash", vector_store=None, compliance_engine=None):
         self.llm = ChatGoogleGenerativeAI(
             model=model_name,
             google_api_key=os.getenv("GOOGLE_API_KEY"),
